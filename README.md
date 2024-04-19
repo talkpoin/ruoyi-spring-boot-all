@@ -8,7 +8,7 @@
 ### 没有遮羞布
 
 
-# 文档验证码(20240419): jiankan
+# 文档验证码(20240419): jiankan 或者请求链接： https://doc.iocoder.cn/?code=p70
 
 ## 模块
 
