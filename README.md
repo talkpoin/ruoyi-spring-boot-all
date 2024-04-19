@@ -8,7 +8,19 @@
 ### 没有遮羞布
 
 
-# 文档验证码(20240419): jiankan 或者请求链接： https://doc.iocoder.cn/?code=p70
+文档验证码: jiankan
+
+Boot 文档验证码：https://doc.iocoder.cn/?code=p70
+
+Cloud 文档验证码：https://cloud.iocoder.cn/?code=p70
+
+如果上面方法不生效，则使用下面方法：
+
+- 打开知识星球链接：https://articles.zsxq.com
+- 打开浏览器控制台，点击查看器，替换知识星球的首页地址为：https://doc.iocoder.cn/?code=p70
+- 再点击浏览器上面的链接，其原理是伪造Refer源
+
+![123.png](image%2F123.png)
 
 ## 模块
 
